@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu cantinho no GitHub! Sou um futuro desenvolvedor e estou anim
 
 ## Sobre Mim
 
-Sou um **entusiasta e futuro desenvolvedor de software** de 20 anos, atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade Santa Cecília. Minha paixão reside no **desenvolvimento back-end**, onde sou fascinado pela lógica robusta e pela construção de APIs eficientes.
+Sou um **entusiasta e futuro desenvolvedor de software**, atualmente cursando **Análise e Desenvolvimento de Sistemas** na Universidade Santa Cecília. Minha paixão reside no **desenvolvimento back-end**, onde sou fascinado pela lógica robusta e pela construção de APIs eficientes.
 
 Busco minha primeira oportunidade na área de tecnologia, focado em contribuir para equipes inovadoras. Sou **proativo**, com **foco em resolução de problemas**, e valorizo o **trabalho em equipe e a colaboração**, além de possuir **comunicação eficaz** e **adaptabilidade**. Estou constantemente aprendendo e dedicando meu tempo a projetos para expandir meus conhecimentos e demonstrar meu potencial.
 
