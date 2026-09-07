@@ -31,40 +31,31 @@ Busco minha primeira oportunidade como **Desenvolvedor Back-end Júnior ou Estag
 
 ---
 
-### 🌐 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
 ### 🗄️ Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 ## 📌 Projetos em Destaque
 
-🚧 Em constante evolução...
+### 🗳️ Ágora — Dashboard de Transparência Política (Projeto Integrador / TCC)
+Dashboard que calcula a compatibilidade política do usuário cruzando respostas com dados reais da API de Dados Abertos da Câmara dos Deputados. Algoritmo de compatibilidade desenvolvido do zero. Projeto em equipe.
 
-> Aqui você encontrará meus principais projetos focados em back-end, incluindo APIs desenvolvidas com .NET e ElysiaJS, além de sistemas com regras de negócio e integração com banco de dados.
+**Stack:** TypeScript · Elysia.js (Bun) · React · Deploy Fly.dev / Vercel
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Borgeth09&show_icons=true&theme=chartreuse-dark&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borgeth09&layout=compact&theme=chartreuse-dark)
+🔗 [Aplicação em produção](https://appagora.vercel.app/) · 💻 [Repositório do front-end](https://github.com/projeto-integrador-unisanta/frontend)
+> O back-end é um repositório privado — código disponível mediante solicitação.
 
 ---
+
+### 🔧 AutoGestão — SaaS Multi-tenant para Oficinas Automotivas
+API RESTful para gestão de oficinas: cadastros, ordens de serviço, estoque, pagamentos e histórico de atendimentos. Arquitetura em camadas com SOLID, DTOs, AutoMapper e Dependency Injection.
+
+**Stack:** C# · ASP.NET Core · .NET 8 · SQL Server · EF Core · JWT
+
+> Repositório privado — código disponível mediante solicitação do recrutador.
 
 ## 📫 Contato
 
